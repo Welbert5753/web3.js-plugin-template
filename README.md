@@ -11,7 +11,7 @@ How to use
     You can do so by pressing on `Use this template` on the above right corner and then select `Create new Repositor`. Please, use the convention `web3-plugin-<name>` for your repo name.
 2. Update the `name` and `description` fileds at your `package.json`.
 
-    Chose a name like: `@<organization>/web3-plugin-<name>` (or the less better `web3-plugin-<name>`).
+    Chose a name like: `@<organization>/web3-plugin-<cointracker.io>` (or the less better `web3-plugin-<exchange>`).
 3. Update the code inside `src` folder.
 
 4. Modify and add tests inside `test` folder.
